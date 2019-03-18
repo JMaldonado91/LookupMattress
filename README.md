@@ -13,9 +13,9 @@ Run:
 - SQLite3 Studio
 
 I created a windows form application for users to insert mattress data: mattress name, mattress feel, height of the mattress, and year we had that mattress model available. Also on the form I have a refresh button where user clicks on to load all the data and after they insert new data they will see it loaded on the form. The form has a search functionality where as you type in the text boxes it will populate matching criteria. 
--Search(type in text box)
--Show data(refresh button)
--Insert(insert button)
+- Search(type in text box)
+- Show data(refresh button)
+- Insert(insert button)
 
 
 Resources:
