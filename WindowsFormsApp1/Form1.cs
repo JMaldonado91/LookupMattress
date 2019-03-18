@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
-using MySql.Data.MySqlClient;
 using System.Data.SqlClient;
 using System.Data.SQLite;
 using System.Windows.Forms;
